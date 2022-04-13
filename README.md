@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sofia Gala Michel</h1>
+<h1 align="center">Hi 😊 , I'm Sofia Gala Michel</h1>
 <h3 align="center">A passionate frontend developer student from Argentina</h3>
 <p align="center">
 - 🌱 I’m currently learning **Javascript**
