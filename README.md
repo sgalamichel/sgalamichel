@@ -1,10 +1,10 @@
 <h1 align="center">Hi 😊 , I'm Sofia Gala Michel</h1>
-<h3 align="center">A passionate frontend developer student from Argentina</h3>
+<h3 align="center">A frontend developer student from Argentina</h3>
 <p align="center">
 - 🌱 I’m currently learning **Javascript**
 </p>
 <p align="center">
-- 💬 Ask me about **HTML, CSS, SCSS,Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 </p>
 <p align="center">
 - 📫 How to reach me **galamichels@gmail.com**
